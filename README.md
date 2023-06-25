@@ -1,4 +1,4 @@
-# Data_Wrangling_Assignment
+# Data Wrangling Assignment
 
 ## Nanyang Land Holdings Data Analysis :bar_chart:
 
