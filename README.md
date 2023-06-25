@@ -12,9 +12,9 @@ This repository provides detailed documentation of the steps undertaken during t
 
 ## :file_folder: Repository Contents
 
-223715Y_Karthik_DataWranglingAssignment.knwf :gear:: This file contains the KNIME workflow used for data preparation and analysis.
-Cleaned_CustomerSpendingData_NanyangLand.csv :clipboard:: This file is the final output of the data preparation process. It contains the cleaned and transformed data ready for analysis.
-223715Y_Karthik_DataWrangingAssignment :book:: This report provides a comprehensive documentation of the data preparation process, steps taken for data wrangling, challenges faced, and the learning outcome.
+- 223715Y_Karthik_DataWranglingAssignment.knwf :gear:: This file contains the KNIME workflow used for data preparation and analysis.
+- Cleaned_CustomerSpendingData_NanyangLand.csv :clipboard:: This file is the final output of the data preparation process. It contains the cleaned and transformed data ready for analysis.
+- 223715Y_Karthik_DataWrangingAssignment :book:: This report provides a comprehensive documentation of the data preparation process, steps taken for data wrangling, challenges faced, and the learning outcome.
 
 ## :arrow_down: How to Use
 
